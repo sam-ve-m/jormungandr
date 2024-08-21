@@ -1,0 +1,11 @@
+--extra-index-url https://nexus.inf-lionx.com.br/repository/pypi/simple
+Flask==2.1.2
+motor==3.0.0
+iara-client==0.10.0
+persephone-client==2.5.0
+etria-logger==0.1.11
+
+uvloop==0.17.0
+uvicorn==0.20.0
+asgiref==3.5.2
+hypercorn==0.13.2

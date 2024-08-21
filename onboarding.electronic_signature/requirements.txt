@@ -1,0 +1,15 @@
+--extra-index-url https://backend:dc222fa6-452f-4253-a2fd-a52e7ba2e7e9@nexus.sigame.com.br/repository/pypi/simple
+persephone-client==2.2.0
+heimdall-client==2.3.1
+mist-client==2.2.0
+
+asgiref==3.5.2
+boto3==1.21.21
+flask==2.1.2
+strenum==0.4.8
+httpx==0.23.0
+
+uvloop==0.17.0
+asgiref==3.5.2
+hypercorn==0.14.3
+uvicorn==0.20.0

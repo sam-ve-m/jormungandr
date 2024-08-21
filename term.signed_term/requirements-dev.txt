@@ -1,0 +1,4 @@
+-r requirements.txt
+pytest-asyncio
+werkzeug
+pre-commit==2.21.0

@@ -1,0 +1,10 @@
+--extra-index-url https://backend:dc222fa6-452f-4253-a2fd-a52e7ba2e7e9@nexus.sigame.com.br/repository/pypi/simple
+aioboto3==10.0.0
+aioredis==2.0.1
+asgiref==3.5.2
+boto3==1.21.21
+etria-logger==0.1.11
+flask==2.2.2
+pydantic==1.9.2
+strenum==0.4.8
+toml==0.10.2

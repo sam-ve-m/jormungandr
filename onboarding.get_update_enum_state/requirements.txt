@@ -1,0 +1,12 @@
+--extra-index-url https://backend:dc222fa6-452f-4253-a2fd-a52e7ba2e7e9@nexus.sigame.com.br/repository/pypi/simple
+etria-logger==0.1.8
+mnemosine==0.1.2
+Flask==2.1.2
+cx-Oracle==8.3.0
+python-dotenv==0.20.0
+pydantic==1.9.1
+
+uvloop==0.17.0
+asgiref==3.5.2
+hypercorn==0.14.3
+uvicorn==0.20.0

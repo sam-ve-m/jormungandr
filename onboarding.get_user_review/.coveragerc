@@ -1,0 +1,8 @@
+[run]
+omit =
+    */main.py
+    tests/*
+    */__init__.py
+
+# command to run
+# pytest --cov-report term-missing --cov-config=.coveragerc --cov=func -v

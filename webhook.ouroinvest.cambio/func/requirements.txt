@@ -1,0 +1,5 @@
+--extra-index-url https://backend:dc222fa6-452f-4253-a2fd-a52e7ba2e7e9@nexus.sigame.com.br/repository/pypi/simple
+../caronte.lionx.com.br/dist/caronte-0.0.0.tar.gz
+Flask==2.1.2
+etria-logger==0.1.8
+persephone-client==1.5.0
